@@ -1,0 +1,3 @@
+# Contoh format proxy (hapus tanda # jika ingin pakai)
+# http://username:password@host:port
+# https://username:password@host:port
