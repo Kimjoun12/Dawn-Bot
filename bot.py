@@ -9,8 +9,8 @@ import shutil
 API_URL = "https://api.dawninternet.com/point"
 TOKENS_FILE = "tokens.txt"
 PROXY_FILE = "proxy.txt"
-REFRESH_MIN = 20
-REFRESH_MAX = 30
+REFRESH_MIN = 15
+REFRESH_MAX = 35
 
 CYAN = "\033[96m"
 MAGENTA = "\033[95m"
